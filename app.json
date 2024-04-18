@@ -13,15 +13,15 @@
   "env": {
     "BOT_TOKEN": {
       "description": "ضع هنا توكن البوت احصل عليه من هنا  https://t.me/botfather",
-      "value": ""
+      "value": "5962156884:AAEBOd5crk8SWWQFZueWVOs2m_-Bx_UXBRM"
     },
     "APP_ID": {
       "description": "ضع هنا الايبب ايدي احصل عليه من هنا https://my.telegram.org",
-      "value": ""
+      "value": "27455984"
     },
     "API_HASH": {
       "description": "ضع هنا الايبي هاش احصل عليه من هنا https://my.telegram.org",
-      "value": ""
+      "value": "62d5f68ce2e9189636967120220f5755"
     }
   },
   "addons": [
