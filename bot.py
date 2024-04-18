@@ -3,9 +3,9 @@ from typing import Tuple
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 
-API_HASH = os.environ['5962156884:AAEBOd5crk8SWWQFZueWVOs2m_-Bx_UXBRM']
+API_HASH = os.environ['62d5f68ce2e9189636967120220f5755']
 APP_ID = int(os.environ['27455984'])
-BOT_TOKEN = os.environ['62d5f68ce2e9189636967120220f5755']
+BOT_TOKEN = os.environ['5962156884:AAEBOd5crk8SWWQFZueWVOs2m_-Bx_UXBRM']
 downloads = './downloads/{}/'
 
 START_BUTTONS=[
